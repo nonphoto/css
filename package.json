@@ -1,0 +1,19 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "CSS reset and utilities",
+  "main": "reset.css",
+  "files": [
+    "*.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonphoto/css.git"
+  },
+  "author": "Jonas Luebbers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nonphoto/css/issues"
+  },
+  "homepage": "https://github.com/nonphoto/css"
+}
