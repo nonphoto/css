@@ -1,14 +1,16 @@
 *,
 ::before,
 ::after {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
   border: solid 0 currentColor;
-  text-decoration: none;
   color: inherit;
   background-size: cover;
   background-repeat: no-repeat;
-  margin: 0;
-  padding: 0;
+  text-decoration: none;
+  text-decoration-thickness: from-font;
+  text-underline-position: from-font;
 }
 
 html {
