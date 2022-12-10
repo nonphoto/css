@@ -23,12 +23,15 @@ html {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: geometricPrecision;
-  height: 100%;
+}
+
+html, body {
+  width: 100%;
+  min-height: 100%;
 }
 
 body {
   line-height: inherit;
-  height: 100%;
 }
 
 hr {
