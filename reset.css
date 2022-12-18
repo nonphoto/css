@@ -110,6 +110,7 @@ optgroup,
 select,
 textarea {
   font-family: inherit;
+  font-weight: inherit;
   font-size: 100%;
   line-height: inherit;
   color: inherit;
@@ -204,4 +205,9 @@ video {
 
 [hidden] {
   display: none;
+}
+
+dialog {
+  max-width: none;
+  max-height: none;
 }
